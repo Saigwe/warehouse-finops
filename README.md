@@ -49,6 +49,10 @@ pytest
 
 To use real data, export `SNOWFLAKE.ACCOUNT_USAGE.QUERY_HISTORY` and `WAREHOUSE_METERING_HISTORY` into `data/` with the same columns.
 
+## Walkthrough
+
+- [ ] 3-minute Loom walkthrough ([script ready](docs/walkthrough.md))
+
 ## Stack
 
 SQL (DuckDB, window functions, JSON extraction), Python, matplotlib, pytest.
